@@ -11,4 +11,20 @@
   "profile": {
     "name": "typicode"
   }
+  "survey":{
+    "question":[
+  {
+    "q":"Do you love pets?",
+  "a":["Yes","No"]
+},
+{
+    "q":"Do you love pets?",
+  "a":["Yes","No"]
+},
+{
+    "q":"Do you love pets?",
+  "a":["Yes","No"]
+}
+  ]
+}
 }
